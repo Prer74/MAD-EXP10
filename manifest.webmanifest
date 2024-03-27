@@ -3,31 +3,31 @@
     "name": "Exp 10",
     "icons": [
         {
-         "src": "assets/icons/icon-48x48.png",
+         "src": "icon-48x48.png",
          "sizes": "48x48",
          "type": "image/png",
          "purpose": "any"
          },
          {
-         "src": "assets/icons/icon-72x72.png",
+         "src": "icon-72x72.png",
          "sizes": "72x72",
          "type": "image/png",
          "purpose": "any"
          },
          {
-         "src": "assets/icons/icon-96x96.png",
+         "src": "icon-96x96.png",
          "sizes": "96x96",
          "type": "image/png",
          "purpose": "any"
          },
          {
-         "src": "assets/icons/icon-128x128.png",
+         "src": "icon-128x128.png",
          "sizes": "128x128",
          "type": "image/png",
          "purpose": "any"
          },
          {
-         "src": "assets/icons/icon-144x144.png",
+         "src": "icon-144x144.png",
          "sizes": "144x144",
          "type": "image/png",
          "purpose": "any"
@@ -45,7 +45,7 @@
         "short_name": "PWA1",
         "description": "PWA Lab 1",
         "url": "?source=pwa",
-        "icons": [{ "src": "assets/icons/icon-144x144.png",
+        "icons": [{ "src": "icon-144x144.png",
             "sizes": "144x144" }]
       },
       {
@@ -53,14 +53,14 @@
         "short_name": "PWA2",
         "description": "PWA Lab 2",
         "url": "?source=pwa",
-        "icons": [{ "src": "assets/icons/icon-144x144.png",
+        "icons": [{ "src": "icon-144x144.png",
             "sizes": "144x144" }]
       }
     ],
     "description": "PWA Lab ",
     "screenshots": [
       {
-        "src": "assets/icons/icon-512x512.png",
+        "src": "icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
